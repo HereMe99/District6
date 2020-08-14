@@ -1,0 +1,17 @@
+<model>
+    <bones size="3"/>
+    <Material>
+        <Name>RootNode</Name>
+    </Material>
+    <Material>
+        <Name>Dumpsters_v1_empty</Name>
+    </Material>
+    <Material>
+        <Name>Dumpsters_v1_garbadge</Name>
+    </Material>
+    <meshes size="2"/>
+    <ertices size="76"/>
+    <ndices size="126"/>
+    <rtices size="119"/>
+    <dices size="318"/>
+</model>

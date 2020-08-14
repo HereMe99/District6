@@ -1,0 +1,174 @@
+﻿D:\Desktop\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(67,14-56): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(72,25-67): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(73,6-48): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(74,6-48): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(75,6-48): warning X3206: 'Load': implicit truncation of vector type
+FXC : warning X4714: sum of temp registers and indexable temp registers times 1024 threads exceeds the recommended total 16384.  Performance may be reduced
+  
+  compilation object save succeeded; see D:\Desktop\District6_0507\x64\Debug\ModelCS.cso
+  Framework.cpp
+D:\Desktop\District6_0507\Framework\Render\Texture.h(23,18): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Render\Texture.h(24,19): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Model\AnimationModel.h(185,1): warning C4267: 'return': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BoxCollider.cpp
+D:\Desktop\District6_0507\Framework\Collision\BoxCollider.cpp(24,87): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Collision\BoxCollider.cpp(25,62): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+D:\Desktop\District6_0507\Framework\Collision\BoxCollider.cpp(131,55): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SphereCollider.cpp
+D:\Desktop\District6_0507\Framework\Collision\Collider.cpp(50,38): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Collision\SphereCollider.cpp(41,82): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AssimpConverter.cpp
+  ModelReader.cpp
+D:\Desktop\District6_0507\Framework\Collision\SphereCollider.cpp(42,62): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(223,55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(244,43): warning C4267: '초기화 중': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(341,41): error C2668: 'Xml::XMLElement::SetAttribute': 오버로드된 함수에 대한 호출이 모호합니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1439,8): message : 'void Xml::XMLElement::SetAttribute(const char *,float)'일 수 있습니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1434,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,double)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1429,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,bool)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1423,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int64_t)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1417,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,unsigned int)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1412,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int)'
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(341,41): message : 인수 목록 '(const char [5], unsigned __int64)'을(를) 일치시키는 동안
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(345,22): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(371,42): error C2668: 'Xml::XMLElement::SetAttribute': 오버로드된 함수에 대한 호출이 모호합니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1439,8): message : 'void Xml::XMLElement::SetAttribute(const char *,float)'일 수 있습니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1434,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,double)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1429,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,bool)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1423,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int64_t)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1417,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,unsigned int)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1412,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int)'
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(371,42): message : 인수 목록 '(const char [5], unsigned __int64)'을(를) 일치시키는 동안
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(373,23): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(385,51): error C2668: 'Xml::XMLElement::SetAttribute': 오버로드된 함수에 대한 호출이 모호합니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1439,8): message : 'void Xml::XMLElement::SetAttribute(const char *,float)'일 수 있습니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1434,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,double)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1429,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,bool)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1423,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int64_t)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1417,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,unsigned int)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1412,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int)'
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(385,51): message : 인수 목록 '(const char [5], unsigned __int64)'을(를) 일치시키는 동안
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(387,32): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(388,77): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(392,50): error C2668: 'Xml::XMLElement::SetAttribute': 오버로드된 함수에 대한 호출이 모호합니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1439,8): message : 'void Xml::XMLElement::SetAttribute(const char *,float)'일 수 있습니다.
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1434,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,double)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1429,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,bool)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1423,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int64_t)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1417,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,unsigned int)'
+D:\Desktop\District6_0507\Framework\Utility\Xml.h(1412,8): message : 또는       'void Xml::XMLElement::SetAttribute(const char *,int)'
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(392,50): message : 인수 목록 '(const char [5], unsigned __int64)'을(를) 일치시키는 동안
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(394,31): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(395,68): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(450,37): warning C4267: '초기화 중': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(490,60): warning C4267: '초기화 중': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(567,32): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(572,38): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Device.cpp
+D:\Desktop\District6_0507\Framework\Converter\ModelReader.cpp(573,90): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Math.cpp
+  Transform.cpp
+D:\Desktop\District6_0507\Framework\Device\Device.cpp(44,27): warning C4244: '=': 'SIZE_T'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Vector3.cpp
+  AnimationModel.cpp
+  Model.cpp
+D:\Desktop\District6_0507\Framework\Math\Transform.cpp(60,10): warning C4101: 'quadScale' :참조되지 않은 지역 변수입니다.
+  ModelAnimator.cpp
+D:\Desktop\District6_0507\Framework\Model\Model.cpp(312,33): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Model\ModelAnimator.cpp(117,33): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ModelClip.cpp
+  ModelMesh.cpp
+  ModelMeshPart.cpp
+  ModelRender.cpp
+D:\Desktop\District6_0507\Framework\Model\ModelAnimator.cpp(172,44): warning C4267: '초기화 중': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Buffer.cpp
+  CommonStates.cpp
+  ComputShader.cpp
+  ConstBuffer.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  CsBuffer.cpp
+  CsResource.cpp
+  DepthStencil.cpp
+  Material.cpp
+  RenderTarget.cpp
+D:\Desktop\District6_0507\Framework\Model\ModelRender.cpp(42,33): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SelfShader.cpp
+  Shader.cpp
+D:\Desktop\District6_0507\Framework\Render\RenderTarget.cpp(60,76): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+D:\Desktop\District6_0507\Framework\Render\Shader.cpp(169,1): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Desktop\District6_0507\Framework\Render\Texture.cpp(75,36): warning C4267: '초기화 중': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BlendState.cpp
+  DepthStencilState.cpp
+  RasterizerState.cpp
+  SamplerState.cpp
+  Binary.cpp
+D:\Desktop\District6_0507\Framework\Render\Texture.cpp(77,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Desktop\District6_0507\Framework\Utility\Binary.cpp(37,18): warning C4267: '인수': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Keyboard.cpp
+  Path.cpp
+D:\Desktop\District6_0507\Framework\Utility\Binary.cpp(40,65): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244: '인수': '_Ty'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:             _Ty=wchar_t
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Iter=wchar_t *,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Alloc=std::allocator<char>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Iter=wchar_t *,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Alloc=std::allocator<char>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         ]
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :         with
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :         [
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :             _Elem=wchar_t,
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :         ]
+  SoundManager.cpp
+  Timer.cpp
+  Xml.cpp
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :         with
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :         [
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :             _Elem=wchar_t,
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+D:\Desktop\District6_0507\Framework\Utility\Path.cpp(7): message :         ]
+  코드를 생성하고 있습니다...
+D:\Desktop\District6_0507\Framework\Utility\Xml.cpp(2422,34): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

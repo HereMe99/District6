@@ -1,0 +1,11 @@
+<Materials>
+    <Material>
+        <Name>Barrel_v1</Name>
+        <DiffuseFile></DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.58823532" G="0.58823532" B="0.58823532" A="1"/>
+        <Diffuse R="0.58823532" G="0.58823532" B="0.58823532" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="1.9999999"/>
+    </Material>
+</Materials>

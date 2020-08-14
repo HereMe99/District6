@@ -1,0 +1,12 @@
+<model>
+    <bones size="2"/>
+    <Material>
+        <Name>RootNode</Name>
+    </Material>
+    <Material>
+        <Name>Hangar_v1_full</Name>
+    </Material>
+    <meshes size="1"/>
+    <ertices size="105"/>
+    <ndices size="177"/>
+</model>

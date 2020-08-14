@@ -1,0 +1,12 @@
+<model>
+    <bones size="2"/>
+    <Material>
+        <Name>RootNode</Name>
+    </Material>
+    <Material>
+        <Name>muzzlemesh</Name>
+    </Material>
+    <meshes size="1"/>
+    <ertices size="9"/>
+    <ndices size="24"/>
+</model>

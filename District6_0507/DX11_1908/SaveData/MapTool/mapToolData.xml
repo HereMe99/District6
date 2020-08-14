@@ -1,0 +1,86 @@
+<Map>
+    <Objects>
+        <Hangar_v4>
+            <position X="39.299946" Y="0" Z="45.298809"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="251.54208" Y="0" Z="124.56385"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="315.14758" Y="-1.5258789e-05" Z="292.80649"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="107.26772" Y="0" Z="209.5686"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="161.24886" Y="0" Z="142.0648"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="161.24886" Y="0" Z="142.0648"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="200.50256" Y="1.5258789e-05" Z="376.67404"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="229.52052" Y="0" Z="276.12305"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="413.84692" Y="0" Z="103.01322"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="399.43427" Y="1.5258789e-05" Z="174.01163"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v4>
+            <position X="343.06598" Y="0" Z="91.262726"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v4>
+        <Hangar_v1>
+            <position X="201.36629" Y="0" Z="49.91449"/>
+            <scale X="1" Y="1" Z="1"/>
+            <rotation X="0" Y="0" Z="0"/>
+        </Hangar_v1>
+    </Objects>
+    <Colliders>
+        <Collider>
+            <scale X="1.6670001" Y="3.651" Z="3.4130001"/>
+            <offset X="0" Y="0" Z="0"/>
+        </Collider>
+        <Collider>
+            <scale X="3.9000001" Y="4.1999998" Z="3"/>
+            <offset X="0" Y="0" Z="0"/>
+        </Collider>
+        <Collider>
+            <scale X="0.15899999" Y="0.5" Z="0.15899999"/>
+            <offset X="0" Y="0" Z="0"/>
+        </Collider>
+        <Collider>
+            <scale X="1.27" Y="0.87300003" Z="0.89999998"/>
+            <offset X="0" Y="0" Z="0"/>
+        </Collider>
+        <Collider>
+            <scale X="0.15899999" Y="1.27" Z="3.8"/>
+            <offset X="0" Y="0" Z="0"/>
+        </Collider>
+    </Colliders>
+</Map>

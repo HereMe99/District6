@@ -1,0 +1,29 @@
+<SpawnPoints>
+    <SpawnPoint>
+        <position X="70.618416" Y="-1.5258789e-05" Z="369.43646"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="35.990051" Y="0" Z="291.78458"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="60.517448" Y="0" Z="406.99649"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="110.13869" Y="0" Z="374.31232"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="120.56634" Y="0" Z="434.73529"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="44.98539" Y="0" Z="353.50909"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="49.191193" Y="0" Z="213.96143"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="79.091438" Y="0" Z="141.99673"/>
+    </SpawnPoint>
+    <SpawnPoint>
+        <position X="100.72956" Y="0" Z="125.44616"/>
+    </SpawnPoint>
+</SpawnPoints>

@@ -1,0 +1,4 @@
+﻿D:\Desktop\District6_0507\DX11_1908\Shaders\Intersection.hlsl(61,8-25): warning X3203: signed/unsigned mismatch, unsigned assumed
+FXC : error X3501: 'VS': entrypoint not found
+  
+  compilation failed; no code produced

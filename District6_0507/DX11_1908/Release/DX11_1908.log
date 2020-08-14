@@ -1,0 +1,14 @@
+﻿  AStar.cpp
+D:\Desktop\backup\District6_0507\DX11_1908\AStar\AStar.cpp(35,47): warning C4316: 'Node': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\Desktop\backup\District6_0507\DX11_1908\AStar\AStar.cpp(150,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Desktop\backup\District6_0507\DX11_1908\AStar\AStar.cpp(173,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Desktop\backup\District6_0507\DX11_1908\AStar\AStar.cpp(193,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\Desktop\backup\District6_0507\DX11_1908\AStar\AStar.cpp(260,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+ImGuizmo.lib(ImGuizmo.obj) : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:ICF' 사양으로 인해 무시됩니다.
+LINK : warning LNK4098: 'MSVCRTD' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  4 of 6953 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  DX11_1908.vcxproj -> D:\Desktop\backup\District6_0507\Release\DX11_1908.exe

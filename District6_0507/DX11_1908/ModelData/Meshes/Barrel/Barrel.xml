@@ -1,0 +1,12 @@
+<model>
+    <bones size="2"/>
+    <Material>
+        <Name>RootNode</Name>
+    </Material>
+    <Material>
+        <Name>Barrel_v1_LD3</Name>
+    </Material>
+    <meshes size="1"/>
+    <ertices size="340"/>
+    <ndices size="972"/>
+</model>

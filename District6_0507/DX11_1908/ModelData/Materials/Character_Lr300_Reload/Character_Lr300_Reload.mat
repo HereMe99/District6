@@ -1,0 +1,20 @@
+<Materials>
+    <Material>
+        <Name>Материал.1</Name>
+        <DiffuseFile>wpn_lr300.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+    </Material>
+    <Material>
+        <Name>Материал</Name>
+        <DiffuseFile>act_arm_berill.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+    </Material>
+</Materials>

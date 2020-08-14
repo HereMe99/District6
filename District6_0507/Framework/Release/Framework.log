@@ -1,0 +1,122 @@
+﻿D:\Desktop\backup\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(67,14-56): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\backup\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(72,25-67): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\backup\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(73,6-48): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\backup\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(74,6-48): warning X3206: 'Load': implicit truncation of vector type
+D:\Desktop\backup\District6_0507\Framework\SelfShader\HLSL\ModelCS.hlsl(75,6-48): warning X3206: 'Load': implicit truncation of vector type
+FXC : warning X4714: sum of temp registers and indexable temp registers times 1024 threads exceeds the recommended total 16384.  Performance may be reduced
+  
+  compilation object save succeeded; see D:\Desktop\backup\District6_0507\Release\ModelCS.cso
+  Framework.cpp
+D:\Desktop\backup\District6_0507\Framework\Utility\Keyboard.h(30,23): warning C4316: 'Keyboard': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\Desktop\backup\District6_0507\Framework\Model\ModelAnimator.h(64,1): warning C4316: 'DirectX::XMMATRIX': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\Desktop\backup\District6_0507\Framework\Model\AnimationModel.h(150,24): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  BoxCollider.cpp
+  Collider.cpp
+  SphereCollider.cpp
+  AssimpConverter.cpp
+  ModelReader.cpp
+D:\Desktop\backup\District6_0507\Framework\Collision\BoxCollider.cpp(246,48): warning C4316: 'SphereCollider': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Device.cpp
+  Math.cpp
+  Transform.cpp
+D:\Desktop\backup\District6_0507\Framework\Converter\ModelReader.cpp(214,37): warning C4316: 'AssimpBone': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\Desktop\backup\District6_0507\Framework\Math\Transform.cpp(8,33): warning C4316: 'WorldBuffer': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Vector3.cpp
+  AnimationModel.cpp
+D:\Desktop\backup\District6_0507\Framework\Math\Transform.cpp(60,10): warning C4101: 'quadScale' :참조되지 않은 지역 변수입니다.
+  Model.cpp
+D:\Desktop\backup\District6_0507\Framework\Model\AnimationModel.cpp(40,43): warning C4316: 'Transform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\Desktop\backup\District6_0507\Framework\Model\Model.cpp(105,36): warning C4316: 'ModelBone': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  ModelAnimator.cpp
+D:\Desktop\backup\District6_0507\Framework\Model\Model.cpp(282,40): warning C4316: 'ModelBone': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+D:\Desktop\backup\District6_0507\Framework\Model\ModelAnimator.cpp(147,40): warning C4316: 'Transform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  ModelClip.cpp
+  ModelMesh.cpp
+D:\Desktop\backup\District6_0507\Framework\Model\ModelAnimator.cpp(237,44): warning C4316: 'DirectX::XMMATRIX': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  ModelMeshPart.cpp
+D:\Desktop\backup\District6_0507\Framework\Model\ModelMesh.cpp(6,31): warning C4316: 'ModelMesh::BoneBuffer': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  ModelRender.cpp
+D:\Desktop\backup\District6_0507\Framework\Model\ModelMeshPart.cpp(6,31): warning C4316: 'ModelMeshPart::BoneBuffer': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  Buffer.cpp
+  CommonStates.cpp
+  ComputShader.cpp
+  ConstBuffer.cpp
+  컴파일하고 있습니다...
+  CsBuffer.cpp
+  CsResource.cpp
+  DepthStencil.cpp
+  Material.cpp
+  RenderTarget.cpp
+  SelfShader.cpp
+  Shader.cpp
+  Texture.cpp
+D:\Desktop\backup\District6_0507\Framework\Model\ModelRender.cpp(104,40): warning C4316: 'Transform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  BlendState.cpp
+  DepthStencilState.cpp
+  RasterizerState.cpp
+  SamplerState.cpp
+  Binary.cpp
+  Keyboard.cpp
+  Path.cpp
+D:\Desktop\backup\District6_0507\Framework\Render\Texture.cpp(138,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244: '인수': '_Ty'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:             _Ty=wchar_t
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         and
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2355,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2366): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_Ty*>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Ty=wchar_t,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2346): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Iter=wchar_t *,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Alloc=std::allocator<char>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,void>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Iter=wchar_t *,
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :             _Alloc=std::allocator<char>
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xstring(2892): message :         ]
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :         with
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :         [
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :             _Elem=wchar_t,
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :         ]
+  SoundManager.cpp
+  Timer.cpp
+  Xml.cpp
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :         with
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :         [
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :             _Elem=wchar_t,
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+D:\Desktop\backup\District6_0507\Framework\Utility\Path.cpp(7): message :         ]
+  Framework.vcxproj -> D:\Desktop\backup\District6_0507\Release\Framework.lib

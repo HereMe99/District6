@@ -1,0 +1,29 @@
+<Materials>
+    <Material>
+        <Name>Hand_D</Name>
+        <DiffuseFile></DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0.5" G="0.5" B="0.5" A="2.0599999"/>
+    </Material>
+    <Material>
+        <Name>Glove_D</Name>
+        <DiffuseFile></DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0.5" G="0.5" B="0.5" A="2.0599999"/>
+    </Material>
+    <Material>
+        <Name>Glock17_D</Name>
+        <DiffuseFile></DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0" G="0" B="0" A="20"/>
+    </Material>
+</Materials>
